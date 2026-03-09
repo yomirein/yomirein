@@ -3,7 +3,7 @@
 ### About me:
 - 🪸 Familliar with programming since 2024
 - 🏳️ Can talk in 🇷🇺 Russian and 🇺🇸 English languages!
-- 🦀 Currently Working on project: SoChat - open souce messanger([Client](https://github.com/yomirein/sochat_client), [Server](https://github.com/yomirein/SoChatServer))
+- 🦀 Currently Working on project: SoChat - fully decentralized open souce messanger([Client](https://github.com/yomirein/sochat_client), [Server](https://github.com/yomirein/SoChatServer))
 
 ### 🍕 Languages and frameworks  I work with:
 .<a href="https://www.java.com/" target="_blank">
