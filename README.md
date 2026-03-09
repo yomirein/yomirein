@@ -24,5 +24,3 @@
 
 ### 💭 Plan to learn in the future:
 - Go, Rust, Flutter WebRTC, Pion WebRTC, Vulkan
-
-[![Yomi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yomirein&theme=vue&height=200)](https://github.com/ashutosh00710/github-readme-activity-graph)
