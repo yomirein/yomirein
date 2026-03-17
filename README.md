@@ -1,5 +1,5 @@
 # 💥 Hello! 
-**🎇 My username is yomirein, but more often it's just rein or yomi!**
+**🎇 My username is yomirein, but more often it's just rein!**
 ### About me:
 - 🪸 Familliar with programming since 2024
 - 🏳️ Can talk in 🇷🇺 Russian(Main) and 🇺🇸 English languages!
@@ -8,6 +8,9 @@
 ### 🍕 Technologies I worked with:
 .<a href="https://www.java.com/" target="_blank">
  <img align="left" title="Java" alt="Java" width="40px" src="https://icon.icepanel.io/Technology/svg/Java.svg"/>
+</a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+ <img align="left" width="40" height="40" title="CSharp" alt="CSharp" src="https://github.com/user-attachments/assets/abb85c62-25ac-471b-8929-4eb1a6d9ab1a" />
 </a>
 <a href="https://dart.dev/" target="_blank">
  <img align="left" title="Dart" alt="Dart" width="40px" src="https://dart.dev/assets/img/logo/dart-64.png"/>
