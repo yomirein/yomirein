@@ -39,3 +39,5 @@
 
 ### 💭 Plan to learn in the future:
 - Go, Rust, Flutter WebRTC, Pion WebRTC, Vulkan
+
+**Open for consulting/projects**
