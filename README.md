@@ -36,6 +36,12 @@
 <a href="https://papermc.io//" target="_blank">
  <img align="left" title="Paper" alt="Paper" width="40px" src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://papermc.io//&size=128"/>
 </a>
+<a href="https://flutter-webrtc.org/" target="_blank">
+ <img align="left" title="Flutter WebRTC" alt="Flutter WebRTC" width="40px" src="https://flutter-webrtc.org/img/flutter-webrtc.png"/>
+</a>
+<a href="https://voidlinux.org/" target="_blank">
+ <img align="left" title="VoidLinux" alt="VoidLinux" width="40px" src="https://voidlinux.org/assets/img/favicon.png"/>
+</a>
 
 ### 💭 Plan to learn in the future:
 - Go, Rust, Flutter WebRTC, Pion WebRTC, Vulkan
